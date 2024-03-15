@@ -1,0 +1,3 @@
+[submodule "cs5131-lexer"]
+	path = cs5131-lexer
+	url = https://github.com/azazazo/cs5131-lexer
